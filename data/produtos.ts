@@ -26,5 +26,19 @@ export const products = [
     image: '/refri-2.png',
     slug: 'guarany-uva',
     description: 'Sabor marcante de uva com o gás perfeito.'
-  }
+  },
+    {
+    id: 5,
+    name: 'Guarany Tradicional',
+    image: '/refri-2.png',
+    slug: 'guarany-tradicional',
+    description: 'O sabor clássico do nosso Guaraná.'
+  },
+  {
+    id: 5,
+    name: 'Guarany Zero',
+    image: '/refri-2.png',
+    slug: 'guarany-zero',
+    description: 'Zero açúcar, 100% sabor.'
+  },
 ];
